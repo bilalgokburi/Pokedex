@@ -1,2 +1,2 @@
 # Pokedex
-Creating pokeamon card and searching by name
+Creating pokemon card and searching by name
